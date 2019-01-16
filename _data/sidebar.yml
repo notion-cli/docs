@@ -1,0 +1,76 @@
+- id: guide
+  url: /guide/
+  title: Guide
+  docs:
+    - id: index
+      url: /guide/
+      title: Introduction
+      sub-headers:
+        - id: features
+          title: Features
+        - id: why-notion
+          title: Why Notion?
+        - id: how-does-it-work
+          title: How does it work?
+    - id: getting-started
+      url: /guide/getting-started/
+      title: Getting Started
+    - id: understanding
+      url: /guide/understanding/
+      title: Understanding Notion
+      sub-headers:
+        - id: tools-and-toolchains
+          title: Tools and Toolchains
+        - id: user-toolchain
+          title: User Toolchain
+        - id: project-toolchains
+          title: Project Toolchains
+- id: reference
+  url: /reference/
+  title: Reference
+  docs:
+    - id: index
+      url: /reference/
+      title: Notion Commands
+    - id: fetch
+      url: /reference/fetch/
+      title: notion fetch
+    - id: install
+      url: /reference/install/
+      title: notion install
+    - id: pin
+      url: /reference/pin/
+      title: notion pin
+    - id: current
+      url: /reference/current/
+      title: notion current
+    - id: deactivate
+      url: /reference/deactivate/
+      title: notion deactivate
+    - id: activate
+      url: /reference/activate/
+      title: notion activate
+    - id: help
+      url: /reference/help/
+      title: notion help
+    - id: version
+      url: /reference/version/
+      title: notion version
+- id: advanced
+  url: /advanced/
+  title: Advanced
+  docs:
+    - id: index
+      url: /advanced/
+      title: Advanced Usage
+    - id: hooks
+      url: /advanced/hooks/
+      title: Hooks
+- id: contributing
+  url: /contributing/
+  title: Contributing
+  docs:
+    - id: index
+      url: /contributing/
+      title: Contributing Guide
+
