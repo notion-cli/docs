@@ -56,16 +56,16 @@
     - id: version
       url: /reference/version/
       title: notion version
-- id: advanced
-  url: /advanced/
-  title: Advanced
-  docs:
-    - id: index
-      url: /advanced/
-      title: Advanced Usage
-    - id: hooks
-      url: /advanced/hooks/
-      title: Hooks
+# - id: advanced
+#   url: /advanced/
+#   title: Advanced
+#   docs:
+#     - id: index
+#       url: /advanced/
+#       title: Advanced Usage
+#     - id: hooks
+#       url: /advanced/hooks/
+#       title: Hooks
 - id: contributing
   url: /contributing/
   title: Contributing
@@ -73,4 +73,14 @@
     - id: index
       url: /contributing/
       title: Contributing Guide
-
+      sub-headers:
+        - id: community
+          title: Community
+        - id: code-of-conduct
+          title: Code of Conduct
+        - id: development
+          title: Development
+        - id: debugging
+          title: Debugging
+        - id: tests
+          title: Tests
