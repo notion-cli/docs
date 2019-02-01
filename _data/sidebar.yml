@@ -19,12 +19,10 @@
       url: /guide/understanding/
       title: Understanding Notion
       sub-headers:
-        - id: tools-and-toolchains
-          title: Tools and Toolchains
-        - id: user-toolchain
-          title: User Toolchain
-        - id: project-toolchains
-          title: Project Toolchains
+        - id: managing-your-toolchain
+          title: Managing your toolchain
+        - id: managing-your-project
+          title: Managing your project
 - id: reference
   url: /reference/
   title: Reference
