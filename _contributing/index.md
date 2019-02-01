@@ -55,3 +55,7 @@ To run the tests in this repo, run the following:
 ```sh
 cargo test --all --features mock-network
 ```
+
+## License
+
+Notion is licensed under a permission [BSD 2-clause license](https://github.com/notion-cli/notion/blob/master/LICENSE).
