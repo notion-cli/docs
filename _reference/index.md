@@ -7,7 +7,7 @@ title: Notion Commands
 This is the command reference for the `notion` command-line binary, which has the following syntax:
 
 ```
-Notion: the hassle-free Node.js manager
+Notion: the hassle-free JavaScript toolchain manager
 
 Usage:
     notion [-v | --verbose] [<command> <args> ...]
