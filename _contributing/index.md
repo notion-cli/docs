@@ -58,4 +58,4 @@ cargo test --all --features mock-network
 
 ## License
 
-Notion is licensed under a permission [BSD 2-clause license](https://github.com/notion-cli/notion/blob/master/LICENSE).
+Notion is licensed under a permissive [BSD 2-clause license](https://github.com/notion-cli/notion/blob/master/LICENSE).
