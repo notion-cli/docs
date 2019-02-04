@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/notion-cli/jekyll-theme
-  revision: 4773eb19f60fb81597d0d92683862b8175135062
+  revision: dd96ba2e815ec024ee8f63fdd8662b0ff366b542
   branch: master
   specs:
     notion-jekyll-theme (0.1.0)
