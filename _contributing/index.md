@@ -24,6 +24,32 @@ Contribution to Notion is organized under the terms of the [Contributor Covenant
 
 Notion is intended to compile with [Rust 1.31](https://www.rust-lang.org/) or newer.
 
+### Building
+
+To compile Notion from source, use [Cargo](https://doc.rust-lang.org/cargo/index.html):
+
+```sh
+cargo build
+```
+
+### Installing Local Builds
+
+To install a locally built copy of Notion, you can use the helper scripts provided in the `dev` directory:
+
+```sh
+cargo build
+./dev/unix/build.sh debug
+./dev/unix/install.sh
+```
+
+Or:
+
+```sh
+cargo build --release
+./dev/unix/build.sh
+./dev/unix/install.sh
+```
+
 ### Formatting
 
 We use Rust's official [rustfmt](https://github.com/rust-lang/rustfmt) tool in our CI to ensure consistent style in the Notion codebase.
