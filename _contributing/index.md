@@ -22,7 +22,7 @@ Contribution to Notion is organized under the terms of the [Contributor Covenant
 
 ### Rust
 
-Notion is intended to compile with [Rust 1.31](https://www.rust-lang.org/) or newer.
+Notion is intended to compile with [Rust 1.33](https://www.rust-lang.org/) or newer.
 
 ### Formatting
 
