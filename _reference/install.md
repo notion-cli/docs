@@ -4,7 +4,7 @@ title: notion install
 
 # `notion install`
 
-The `notion install` command has the following synax:
+The `notion install` command has the following syntax:
 
 ```
 Install a tool in the user toolchain

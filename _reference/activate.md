@@ -4,7 +4,7 @@ title: notion activate
 
 # `notion activate`
 
-The `notion activate` command has the following synax:
+The `notion activate` command has the following syntax:
 
 ```
 Re-Enable Notion in the current shell

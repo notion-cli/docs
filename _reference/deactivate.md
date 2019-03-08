@@ -4,7 +4,7 @@ title: notion deactivate
 
 # `notion deactivate`
 
-The `notion deactivate` command has the following synax:
+The `notion deactivate` command has the following syntax:
 
 ```
 Disable Notion in the current shell
