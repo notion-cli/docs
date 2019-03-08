@@ -4,7 +4,7 @@ title: notion current
 
 # `notion current`
 
-The `notion current` command has the following synax:
+The `notion current` command has the following syntax:
 
 ```
 Display the currently activated Node version

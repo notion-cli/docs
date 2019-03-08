@@ -4,7 +4,7 @@ title: notion pin
 
 # `notion pin`
 
-The `notion pin` command has the following synax:
+The `notion pin` command has the following syntax:
 
 ```
 Select a tool for the current project's toolchain

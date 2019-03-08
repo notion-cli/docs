@@ -4,7 +4,7 @@ title: notion fetch
 
 # `notion fetch`
 
-The `notion fetch` command has the following synax:
+The `notion fetch` command has the following syntax:
 
 ```
 Fetch a tool to the local machine
